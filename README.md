@@ -24,5 +24,5 @@ Puedes ver el dashboard en línea dando clic en el siguiente enlace:
 
 ----
 
- ### ⚠️ Nota: Algunos elementos visuales, como el mapa de ArcGIS y un gráfico generado con Python, pueden no visualizarse correctamente en el dashboard en línea si no se cuenta con una licencia organizacional o Power BI Premium.  
-Para una visualización completa y sin restricciones, se recomienda abrir el archivo `.pbix` localmente en Power BI Desktop.
+ ### ⚠️ Nota: El dashboard compartido públicamente mediante Power BI Web puede no mostrar ciertos elementos (como mapas de ArcGIS o gráficos de Python) debido a restricciones de visualización sin autenticación.  
+Para ver el dashboard completo sin limitaciones, se recomienda descargar y abrir el archivo `.pbix` en Power BI Desktop.
