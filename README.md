@@ -21,3 +21,6 @@ Puedes ver el dashboard en línea dando clic en el siguiente enlace:
 ## 📁 Archivo fuente del dashboard
 
 📊 [nike.pbix](./nike.pbix)
+
+⚠️ ### Nota: Algunos elementos visuales, como el mapa de ArcGIS y los gráficos generados con Python, pueden no visualizarse correctamente en el dashboard en línea si no se cuenta con una licencia organizacional o Power BI Premium.  
+Para una visualización completa y sin restricciones, se recomienda abrir el archivo `.pbix` localmente en Power BI Desktop.
