@@ -21,7 +21,7 @@ Puedes ver el dashboard en línea dando clic en el siguiente enlace:
 ## 📁 Archivo fuente del dashboard
 
 📊 [nike.pbix](./nike.pbix)
-
+📊 [nike_sales_2025](./nike_sales_2025.csv)
 ----
 
  ### ⚠️ Nota: El dashboard compartido públicamente mediante Power BI Web puede no mostrar ciertos elementos (como mapas de ArcGIS o gráficos de Python) debido a restricciones de visualización sin autenticación.  
